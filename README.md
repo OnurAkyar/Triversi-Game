@@ -40,6 +40,9 @@ S'yi oynamak istedigin yeri (x,y) formatinda gir: 2 2
 ## 👨‍💻 Oyuncular
 
 **1. Oyuncu:** Kırmızı (K)
+
 **2. Oyuncu:** Sarı (S)
+
 **3. Oyuncu:** Mavi (M)
-## İYİ OYUNLAR 🎉 
+
+**İYİ OYUNLAR 🎉**
