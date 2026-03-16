@@ -1,25 +1,26 @@
-# 🎮 TRIVERSİ
+# 🎮 TRIVERSI
 
-Bu oyun, **Reversi** oyununun 3 kişilik versiyonudur. Kurallar klasik Reversi'den farklılık göstermektedir.
+This game is a 3-player version of the **Reversi** game. The rules differ from classic Reversi.
 
-## 🧠 Oyun Hakkında
+## 🧠 About the Game
 
-* Oyuna ilk olarak **kırmızı oyuncu (K)** başlar.
-* İlk taş tahtanın ortasına yerleştirilmelidir. 
-* Eğer tahtanın kenarları çift sayıdan oluşursa kırmızı oyuncu ortadaki 2x2'lik kareden başlayacağı noktayı seçer.
-* Diğer oyuncular sırasıyla **sarı (S)** ve **mavi (M)** taşlarla devam eder.
-* Sıralama: K → S → M → K → ...
+* The **red player (R)** starts the game first. 
+* The first piece must be placed in the center of the board. 
+* If the sides of the board consist of an even number, the red player chooses the starting point from the 2x2 square in the middle.
+* The other players continue with **yellow (Y)** and **blue (B)** pieces respectively.
+* Turn order: R → Y → B → R → ...
 
-## 📋 Kurallar
+## 📋 Rules
 
-1. Oyuncular yalnızca **mevcut taşların yanlarına ve çaprazlarına** taş koyabilir.
-2. Taşlar **dolu hücrelere** yerleştirilemez.
-3. Rakip taşlar **çevrelendiğinde** ele geçirilip oynayan oyuncunun rengine döner.
-4. Oyun **tahta tamamen dolduğunda** sona erer.
-5. En çok taşa sahip olan oyuncu oyunu kazanır.
-6. Eşitlik durumunda oyun **berabere** biter.
+1. Players can only place pieces **adjacent and diagonal to existing pieces**.
+2. Pieces cannot be placed in **occupied cells**.
+3. When opponent pieces are **surrounded**, they are captured and flipped to the playing player's color.
+4. The game ends when **the board is completely full**.
+5. The player with the most pieces wins the game.
+6. In case of a tie, the game ends in a **draw**.
 
-## 🧾 Örnek Oyun Ekranı
+## 🧾 Sample Game Screen
+
 
 ```text
 Tahtanın boyutunu giriniz:
@@ -31,18 +32,18 @@ Tahtanın boyutunu giriniz:
 * * * * * 
 * * * * * 
 
-(Sıra 2.oyuncudan devam eder.)
-S'yi oynamak istedigin yeri (x,y) formatinda gir: 2 2
+(The turn continues with the 2nd player.)
+Enter the position you want to play Y in (x,y) format: 2 2
 ...
 ```
 
 
 ## 👨‍💻 Oyuncular
 
-**1. Oyuncu:** Kırmızı (K)
+**1. Player:** Red (K)
 
-**2. Oyuncu:** Sarı (S)
+**2. Player:** Yellow (S)
 
-**3. Oyuncu:** Mavi (M)
+**3. Player:** Blue (M)
 
-**İYİ OYUNLAR 🎉**
+**HAVE FUN 🎉**
