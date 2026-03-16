@@ -1,6 +1,6 @@
 # 🎮 TRIVERSİ
 
-Bu oyun, Reversi oyununun 3 kişilik versiyonudur. Kurallar klasik Reversi'den farklılık göstermektedir.
+Bu oyun, **Reversi** oyununun 3 kişilik versiyonudur. Kurallar klasik Reversi'den farklılık göstermektedir.
 
 ## 🧠 Oyun Hakkında
 
@@ -34,6 +34,9 @@ Tahtanın boyutunu giriniz:
 (Sıra 2.oyuncudan devam eder.)
 S'yi oynamak istedigin yeri (x,y) formatinda gir: 2 2
 ...
+```
+
+
 👨‍💻 Oyuncular
 
 1. Oyuncu: Kırmızı (K)
